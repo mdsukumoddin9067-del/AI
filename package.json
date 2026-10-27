@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-ai-companion",
+  "version": "1.0.0",
+  "description": "AI Minecraft Companion using Gemini and Mineflayer",
+  "main": "index.js",
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "mineflayer": "^4.20.0",
+    "mineflayer-pathfinder": "^2.4.0"
+  }
+}
