@@ -1,0 +1,11 @@
+{
+  "minecraft": {
+    "host": "168.119.78.155",
+    "port": 23957,
+    "username": "Gemini AI",
+    "version": "1.21.3"
+  },
+  "ai": {
+    "model": "gemini-2.5-flash"
+  }
+}
